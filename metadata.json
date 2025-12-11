@@ -1,0 +1,5 @@
+{
+  "name": "Smart PDF Merger",
+  "description": "Combine multiple PDF files into one seamless document. Features AI-powered smart renaming using Gemini.",
+  "requestFramePermissions": []
+}
